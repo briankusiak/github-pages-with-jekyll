@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the jungle"
+title: "Welcome-to-the-Jungle"
 date: 2021-06-23
 ---
 
